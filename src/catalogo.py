@@ -1,1 +1,1 @@
-print("Libros")
+print("Catálogo de libros")

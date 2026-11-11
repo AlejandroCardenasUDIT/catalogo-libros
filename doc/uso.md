@@ -1,1 +1,1 @@
-- Completa la preparación del catálogo.
+	- Comprueba que Python está instalado.
