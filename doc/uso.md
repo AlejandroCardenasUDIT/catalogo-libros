@@ -1,1 +1,2 @@
 	- Comprueba que Python está instalado.
+- Abre la carpeta del catálogo en VS Code.
