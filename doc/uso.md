@@ -1,1 +1,1 @@
-- Completa la preparación del catálogo.
+- Abre la carpeta del catálogo en VS Code.
