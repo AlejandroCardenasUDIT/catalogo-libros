@@ -1,0 +1,1 @@
+- Completa la preparación del catálogo.
